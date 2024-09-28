@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "front": "What is the capital of France?",
+        "back": "Paris",
+        "tags": [
+            "geography",
+            "Europe"
+        ],
+        "easiness_factor": 2.6,
+        "interval": 1,
+        "repetitions": 1,
+        "next_review_date": "2024-09-29",
+        "review_history": [
+            {
+                "date": "2024-09-28",
+                "quality": "easy"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "front": "What is the capital of France?",
+        "back": "Paris",
+        "tags": [
+            "geography",
+            "Europe"
+        ],
+        "easiness_factor": 2.6,
+        "interval": 1,
+        "repetitions": 1,
+        "next_review_date": "2024-09-29",
+        "review_history": [
+            {
+                "date": "2024-09-28",
+                "quality": "easy"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "front": "Who wrote '1984'?",
+        "back": "George Orwell",
+        "tags": [
+            "literature",
+            "authors"
+        ],
+        "easiness_factor": 2.5,
+        "interval": 1,
+        "repetitions": 0,
+        "next_review_date": "2024-09-29",
+        "review_history": [
+            {
+                "date": "2024-09-28",
+                "quality": "hard"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "front": "What is the chemical symbol for gold?",
+        "back": "Au",
+        "tags": [
+            "chemistry",
+            "elements"
+        ],
+        "easiness_factor": 2.36,
+        "interval": 1,
+        "repetitions": 1,
+        "next_review_date": "2024-09-29",
+        "review_history": [
+            {
+                "date": "2024-09-28",
+                "quality": "medium"
+            }
+        ]
+    }
+]
