@@ -1,5 +1,8 @@
 # Anki-like CLI Flashcard Application
 
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=infobp8&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/infobp8)
+
 ## Description
 
 This is a Python-based command-line interface (CLI) application that functions as a flashcard system, similar to Anki. It allows you to add flashcards, review them using the SM-2 spaced repetition algorithm, and utilizes OpenAI's GPT-4 to grade your answers. The application runs entirely in the terminal, making it lightweight and easy to use.
@@ -22,7 +25,6 @@ This is a Python-based command-line interface (CLI) application that functions a
 ### Clone the Repository
 
 Clone this repository to your local machine using:
-
 ```bash
 git clone https://github.com/yourusername/ankicli.git
 cd ankicli
